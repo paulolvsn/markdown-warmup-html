@@ -9,7 +9,7 @@ Je suis **brésilien** et j'ai **28 ans**
 3. Anglais
 4. Néerlandais
 
-**Les pays (et villes) où j'ai habité**
+**Les pays (et villes) où j'ai vécu**
 
 * Brésil
     * São Paulo
